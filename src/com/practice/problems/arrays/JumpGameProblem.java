@@ -1,4 +1,4 @@
-package com.practice.problems;
+package com.practice.problems.arrays;
 
 /*
  * You have an array of non-negative integers,you are initially positioned at the 
