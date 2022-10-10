@@ -1,4 +1,4 @@
-package com.practice.problems;
+package com.practice.problems.arrays;
 
 public class Sort0toEndofList {
 	static void MoveZeroToEnd(int array[], int n) {
