@@ -1,4 +1,4 @@
-package com.ds.practice;
+package com.practice.problems.arrays;
 
 public class KthSmallestMatrix {
 	public int kthSmallest(int[][] matrix, int k) {

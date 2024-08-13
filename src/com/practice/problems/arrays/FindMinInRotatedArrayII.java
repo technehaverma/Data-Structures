@@ -1,4 +1,4 @@
-package com.ds.practice;
+package com.practice.problems.arrays;
 public class FindMinInRotatedArrayII {
      public int findMin(int[] nums) {
        

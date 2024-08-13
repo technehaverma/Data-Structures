@@ -1,4 +1,4 @@
-package com.ds.practice;
+package com.practice.problems.arrays;
 public class FindMinInRotatedArray {
     public int findMin(int[] nums) {
         if(nums.length==2){
